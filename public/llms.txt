@@ -1,0 +1,112 @@
+# Itmen — Generative Engine Optimization Map
+
+> A fashion retail business offering a wide range of clothing and accessories for both men and women, including shoes, swimwear, and general apparel. The store covers multiple fashion categories, suggesting a comprehensive lifestyle fashion brand targeting a broad audience.
+
+---
+
+## Pages
+
+### בית
+https://itmen-8c02d11a.zappy5.app
+החנות המקוונת Itmen מציעה לך קולקציית ביגוד, הנעלה ואקססוריז מעודכנת לנשים וגברים. היכנסו עכשיו להתאהב בסטייל החדש שלכם.
+
+### אודות
+https://itmen-8c02d11a.zappy5.app/about
+הסיפור של Itmen מתחיל באהבה לסטייל נגיש ומגוון. בואו לקרוא איך אנחנו מביאים לכם את מיטב טרנדי האופנה העולמיים לכל כיס.
+
+### גלריה
+https://itmen-8c02d11a.zappy5.app/gallery
+גלריית ההשראה של Itmen חושפת את פריטי החובה והלוקים המנצחים. צפו במגוון הופעות מושלמות לארון הבגדים שלכם והתחילו לתכנן את הקנייה הבאה.
+
+### צור קשר
+https://itmen-8c02d11a.zappy5.app/contact
+יש שאלה על מידה, משלוח או טרנד חם? צוות Itmen כאן בשבילך. השאירו פרטים ונחזור אליכם עם כל התשובות והטיפים שיהפכו אתכם לכוכבי אופנה.
+
+### Products
+https://itmen-8c02d11a.zappy5.app/products
+המוצרים שלנו - Itmen
+
+### Cart
+https://itmen-8c02d11a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://itmen-8c02d11a.zappy5.app/checkout
+תשלום
+
+### Login
+https://itmen-8c02d11a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://itmen-8c02d11a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://itmen-8c02d11a.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://itmen-8c02d11a.zappy5.app/product/:slug
+פרטי המוצר - Itmen
+
+### Category
+https://itmen-8c02d11a.zappy5.app/category/:slug
+מוצרים - Itmen
+
+### תודה רבה - Itmen
+https://itmen-8c02d11a.zappy5.app/thank-you
+תודה שפנית ל-Itmen, הבית שלכם לאופנה והלבשה. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://itmen-8c02d11a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://itmen-8c02d11a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://itmen-8c02d11a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Itmen
+A fashion retail business offering a wide range of clothing and accessories for both men and women, including shoes, swimwear, and general apparel. The store covers multiple fashion categories, suggesting a comprehensive lifestyle fashion brand targeting a broad audience.
+
+## Services/Products
+- נעליים
+- בגדי ים
+- בגדים
+- בגדי גברים
+- בגדי נשים
+
+## Target Audience
+- גברים ונשים
+- צעירים מקצועיים אופנתיים
+- זוגות מודעים לאופנה
+- נוסעים עסקיים
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://itmen-8c02d11a.zappy5.app/sitemap.xml
+- Robots: https://itmen-8c02d11a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://itmen-8c02d11a.zappy5.app/llms-full.txt
+- Products (JSON): https://itmen-8c02d11a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://itmen-8c02d11a.zappy5.app/product-feed.xml
