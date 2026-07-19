@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://itmen-8c02d11a.zappy5.app
+https://example.com
 החנות המקוונת Itmen מציעה לך קולקציית ביגוד, הנעלה ואקססוריז מעודכנת לנשים וגברים. היכנסו עכשיו להתאהב בסטייל החדש שלכם.
 
 ### אודות
-https://itmen-8c02d11a.zappy5.app/about
+https://example.com/about
 הסיפור של Itmen מתחיל באהבה לסטייל נגיש ומגוון. בואו לקרוא איך אנחנו מביאים לכם את מיטב טרנדי האופנה העולמיים לכל כיס.
 
 ### גלריה
-https://itmen-8c02d11a.zappy5.app/gallery
+https://example.com/gallery
 גלריית ההשראה של Itmen חושפת את פריטי החובה והלוקים המנצחים. צפו במגוון הופעות מושלמות לארון הבגדים שלכם והתחילו לתכנן את הקנייה הבאה.
 
 ### צור קשר
-https://itmen-8c02d11a.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או טרנד חם? צוות Itmen כאן בשבילך. השאירו פרטים ונחזור אליכם עם כל התשובות והטיפים שיהפכו אתכם לכוכבי אופנה.
 
 ### Products
-https://itmen-8c02d11a.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Itmen
 
 ### Cart
-https://itmen-8c02d11a.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://itmen-8c02d11a.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://itmen-8c02d11a.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://itmen-8c02d11a.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://itmen-8c02d11a.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://itmen-8c02d11a.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Itmen
 
 ### Category
-https://itmen-8c02d11a.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Itmen
 
 ### תודה רבה - Itmen
-https://itmen-8c02d11a.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית ל-Itmen, הבית שלכם לאופנה והלבשה. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://itmen-8c02d11a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://itmen-8c02d11a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://itmen-8c02d11a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://itmen-8c02d11a.zappy5.app/sitemap.xml
-- Robots: https://itmen-8c02d11a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://itmen-8c02d11a.zappy5.app/llms-full.txt
-- Products (JSON): https://itmen-8c02d11a.zappy5.app/products.json
-- Products (Google Merchant RSS): https://itmen-8c02d11a.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
